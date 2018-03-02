@@ -1,18 +1,20 @@
 # fancy-greeting
 
-## what it do:
+## What it do:
 These programs are all just trying to say hello to you in your command line.
 
-## where it come from:
+## Where it come from:
 ### Accelerated C++
 #### Practical Programming By Example
+_by Andrew Koenig_ 
+_and Barbara E. Moo_
 
-## compile:
+## Compile:
 `$ g++ <filename>.cpp -o <whatever>`
-## run:
+## Run:
 `$ ./<whatever>`
 
 ## Thanks
-* God
-* Bo Jackson
-* My roommate Andrew for borrowing me this book
+* My roommate Andrew for borrowing me this book ( no relation to author )
+* My cat Moo ( no relation to other author )
+* My other cat Worm ( no relation to my other cat )
